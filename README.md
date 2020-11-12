@@ -16,6 +16,7 @@ There are several data structures and algorithms implemented in this project. Th
 - Queue
 - Binary Tree
 - Hash Table
+- Trie
 
 ##### Searching algorithms
 - Linear Search
@@ -25,6 +26,11 @@ There are several data structures and algorithms implemented in this project. Th
 - Exponential Search
 - Ternary Search
 
+##### String searching algorithms
+
+- Naive String Search
+- Rabin-Karp Algorithm
+
 ##### Sorting algorithms
 - Selection Sort
 - Insertion Sort
@@ -32,6 +38,7 @@ There are several data structures and algorithms implemented in this project. Th
 - Comb Sort
 - Cocktail Sort
 - Gnome Sort
+- Merge Sort
 
 ## Usage
 
@@ -48,7 +55,7 @@ Don't forget about proverb:
 
 ## Contribute
 
-We would be happy to receive your propositions of improvement ;)
+We would be happy to receive your propositions of improvement! Read [Contributing Guide](https://github.com/floyernick/Data-Structures-and-Algorithms/blob/master/CONTRIBUTING.md) for more details.
 
 ## License
 
